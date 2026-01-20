@@ -48,6 +48,9 @@ Thumbs.db
 
 # Ignore auth files
 .google_token
+keys.json
+*.key
+*.pem
 .credentials.json
 
 # Local Terraform state backup
